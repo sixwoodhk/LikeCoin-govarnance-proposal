@@ -16,7 +16,7 @@ The new requirements will help to cultivate more independent validators with var
 
 # 增強驗證人的多樣性: 第12項議案 #
 
-### 讚賞鏈議案 #12 - 驗證人要獲取 LikeCoin Foundation 的資格 ###
+### 讚賞鏈議案 #12 - 驗證人要獲取 LikeCoin Foundation delegation 的資格 ###
 
 #### 背景 ####
 根據第9項議案 (https://ipfs.io/ipfs/QmeQH8ucbPnerrbTEkJ3GnjWfLUo9DAioq6EHcmHXvNsL9/), 為驗證人要獲取 LikeCoin Foundation 的 delegation 引入新要求。
